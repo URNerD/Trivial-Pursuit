@@ -10,14 +10,14 @@ Use a tab character betwen each part. Leave a blank line between each "card".
 
 Each line would look like this:
 
-Category<tab>Question<tab>Answer<tab>Evidence<return>
+Category\<tab>Question\<tab>Answer\<tab>Evidence\<return>
 
 * Category is the code in parenthesis from the list below.
-* <tab> is a tab character.
+* \<tab> is a tab character.
 * Question is your question.
 * Answer is the correct answer.
 * Evidence is the URL or other source where you prove you are right.
-* <return> is the return key to start a new line.
+* \<return> is the return key to start a new line.
 
 
 ## Categories
