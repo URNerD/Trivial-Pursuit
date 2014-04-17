@@ -32,7 +32,7 @@ Category\<tab>Question\<tab>Answer\<tab>Evidence\<return>
 * Git (G)
 
 * History of the Internet & WWW (HI)
-[History of the World Wide Web](http://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+  * [History of the World Wide Web](http://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
 
 * Network Infrastructure (NI)
 
