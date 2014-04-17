@@ -32,9 +32,10 @@ Category\<tab>Question\<tab>Answer\<tab>Evidence\<return>
   * [CSS Tutorial](http://www.w3schools.com/css)  
 
 * Git and the Unix Command Line (G)
-  * [GitHub for Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~oBIJhP2BRrwzhz)
+  * [GitHub for Beginners]
+    (http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~oBIJhP2BRrwzhz)
   * [Git for beginners: The definitive practical guide]
-(http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide)
+    (http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide)
   * [New to Git](https://github.com/blog/120-new-to-git)
   * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)
 
@@ -42,11 +43,15 @@ Category\<tab>Question\<tab>Answer\<tab>Evidence\<return>
   * [History of the World Wide Web](http://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
 
 * Network Infrastructure (NI)
-  * []()
+  * [How does the Internet work?](http://computer.howstuffworks.com/internet/basics/internet.htm)
+  * [How does the Internet work](http://www.w3.org/wiki/How_does_the_Internet_work)
+  * [How does the Internet work?]
+    (http://www.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 
 * Design & Typography (DT)
   * [The Big Four: Contrast, Repetition, Alignment, Proximity]
     (http://www.presentationzen.com/chapter6_spread.pdf)
+  * [Learn: Anatomy of a Typeface](http://typedia.com/learn/only/anatomy-of-a-typeface)
 
   
 ## Designing Good Questions
