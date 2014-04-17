@@ -45,7 +45,8 @@ Category\<tab>Question\<tab>Answer\<tab>Evidence\<return>
   * []()
 
 * Design & Typography (DT)
-  * {}()
+  * [The Big Four: Contrast, Repetition, Alignment, Proximity]
+    (http://www.presentationzen.com/chapter6_spread.pdf)
 
   
 ## Designing Good Questions
