@@ -31,8 +31,12 @@ Category\<tab>Question\<tab>Answer\<tab>Evidence\<return>
 * CSS (C)
   * [CSS Tutorial](http://www.w3schools.com/css)  
 
-* Git (G)
-  * []()
+* Git and the Unix Command Line (G)
+  * [GitHub for Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~oBIJhP2BRrwzhz)
+  * [Git for beginners: The definitive practical guide]
+(http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide)
+  * [New to Git](https://github.com/blog/120-new-to-git)
+  * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)
 
 * History of the Internet & WWW (HI)
   * [History of the World Wide Web](http://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
