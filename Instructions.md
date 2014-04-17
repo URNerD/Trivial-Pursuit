@@ -26,16 +26,22 @@ Category\<tab>Question\<tab>Answer\<tab>Evidence\<return>
 ## Categories
 
 * HTML (H)
+  * [HTML5 Tutorial](http://www.w3schools.com/html)
 
 * CSS (C)
+  * [CSS Tutorial](http://www.w3schools.com/css)  
 
 * Git (G)
+  * []()
 
 * History of the Internet & WWW (HI)
   * [History of the World Wide Web](http://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
 
 * Network Infrastructure (NI)
+  * []()
 
 * Design & Typography (DT)
+  * {}()
 
+  
 ## Designing Good Questions
