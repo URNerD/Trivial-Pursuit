@@ -53,5 +53,3 @@ Category\<tab>Question\<tab>Answer\<tab>Evidence\<return>
     (http://www.presentationzen.com/chapter6_spread.pdf)
   * [Learn: Anatomy of a Typeface](http://typedia.com/learn/only/anatomy-of-a-typeface)
 
-  
-## Designing Good Questions
